@@ -36,8 +36,8 @@ config :phoenix, :stacktrace_depth, 20
 # Configure your database
 config :meghansguidry, Meghansguidry.Repo,
   adapter: Ecto.Adapters.Postgres,
-  username: "postgres",
-  password: "postgres",
+  username: "mberkowitz",
+  password: "",
   database: "meghansguidry_dev",
   hostname: "localhost",
   pool_size: 10

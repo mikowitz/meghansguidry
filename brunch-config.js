@@ -22,7 +22,8 @@ exports.config = {
     stylesheets: {
       joinTo: "css/app.css",
       order: {
-        after: ["web/static/css/app.css"] // concat app.css last
+        before: ["web/static/css/phoenix.css"]
+        //after: ["web/static/css/app.css"] // concat app.css last
       }
     },
     templates: {
@@ -54,6 +55,9 @@ exports.config = {
     babel: {
       // Do not use ES6 compiler in vendor code
       ignore: [/web\/static\/vendor/]
+    },
+    sass: {
+      mode: "native"
     }
   },
 
