@@ -14,8 +14,9 @@
 
   <body>
     <div class="container">
-      <header class="header name">
-        <h1>Meghan Guidry</h1>
+      <header class="header">
+        <h1 class="name">Meghan Guidry</h1>
+        <h4>poet. essayist. librettist.</h4>
       </header>
 
       <main role="main">
