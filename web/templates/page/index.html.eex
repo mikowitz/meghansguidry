@@ -18,6 +18,16 @@
     </h3>
   </div>
 </div>
+<div class="row social">
+  <div class="col-sm-12 text-center">
+    <a href="https://www.facebook.com/meghansguidry/" target="_blank">
+      <i class="fa fa-2x fa-facebook-square"></i>
+    </a>
+    <a href="https://twitter.com/meghanguidry1" target="_blank">
+      <i class="fa fa-2x fa-twitter-square"></i>
+    </a>
+  </div>
+</div>
 
 <hr/>
 
