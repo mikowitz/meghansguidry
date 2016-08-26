@@ -1,0 +1,20 @@
+{
+  "name": "meghansguidry",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Michael Berkowitz <michael.berkowitz@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mikowitz/meghansguidry",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.6.3"
+  }
+}
