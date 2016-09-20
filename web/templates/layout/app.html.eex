@@ -18,6 +18,33 @@
         <h1 class="name">Meghan Guidry</h1>
         <h4>poet. essayist. librettist.</h4>
       </header>
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="headshot">
+            <img src="images/guidry.jpg"/>
+          </div>
+        </div>
+      </div>
+
+      <hr/>
+      <header class="header">
+        <nav role="navigation">
+          <div class="row nav-link text-center">
+            <div class="col-xs-3 col-xs-6">
+              News
+            </div>
+            <div class="col-xs-3 col-xs-6">
+              About
+            </div>
+            <div class="col-xs-3 col-xs-6">
+              Works
+            </div>
+            <div class="col-xs-3 col-xs-6">
+              Contact
+            </div>
+          </div>
+        </nav>
+      </header>
 
       <main role="main">
         <%= render @view_module, @view_template, assigns %>

@@ -1,8 +1,12 @@
+
+
 <div class="row">
-  <div class="col-sm-12">
-    <div class="headshot">
-      <img src="images/guidry.jpg"/>
-    </div>
+  <div class="col-sm-12 text-center">
+    <h3>
+      <a href="http://bulletin.hds.harvard.edu/articles/summerautumn2016/mourning-unknowable" target="_blank">
+        Mourning the Unknowable, Harvard Divinity Bulletin
+      </a>
+    </h3>
   </div>
 </div>
 
@@ -18,6 +22,7 @@
     </h3>
   </div>
 </div>
+
 <div class="row social">
   <div class="col-sm-12 text-center">
     <a href="https://www.facebook.com/meghansguidry/" target="_blank">
@@ -26,17 +31,6 @@
     <a href="https://twitter.com/meghanguidry1" target="_blank">
       <i class="fa fa-2x fa-twitter-square"></i>
     </a>
-  </div>
-</div>
-
-<hr/>
-
-<div class="row">
-  <div class="col-sm-12 text-center">
-    <h3>Coming soon</h3>
-    <h4>
-      Mourning the Unknowable, Harvard Divinity Bulletin
-    </h4>
   </div>
 </div>
 

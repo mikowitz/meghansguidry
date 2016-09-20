@@ -10,14 +10,14 @@ body {
 .headshot {
   text-align: center;
   img {
-    max-width: 90%;
+    max-width: 80%;
     display: inline-block;
-    padding-top: 0em;
+    padding: 1em 0;
   }
 }
 
 header.header {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 
 .social {
@@ -25,5 +25,12 @@ header.header {
 
   i.fa {
     padding: 10px 20px 0;
+  }
+}
+
+nav {
+  .row.nav-link {
+    padding: 5px;
+    padding-bottom: 10px;
   }
 }
